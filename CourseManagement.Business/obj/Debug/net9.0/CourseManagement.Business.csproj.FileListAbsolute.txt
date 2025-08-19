@@ -1,0 +1,15 @@
+D:\task\CourseManagement.Business\obj\Debug\net9.0\CourseManagement.Business.csproj.AssemblyReference.cache
+D:\task\CourseManagement.Business\obj\Debug\net9.0\CourseManagement.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\CourseManagement.Business\obj\Debug\net9.0\CourseManagement.Business.AssemblyInfoInputs.cache
+D:\task\CourseManagement.Business\obj\Debug\net9.0\CourseManagement.Business.AssemblyInfo.cs
+D:\task\CourseManagement.Business\obj\Debug\net9.0\CourseManagement.Business.csproj.CoreCompileInputs.cache
+D:\task\CourseManagement.Business\bin\Debug\net9.0\CourseManagement.Business.deps.json
+D:\task\CourseManagement.Business\bin\Debug\net9.0\CourseManagement.Business.dll
+D:\task\CourseManagement.Business\bin\Debug\net9.0\CourseManagement.Business.pdb
+D:\task\CourseManagement.Business\bin\Debug\net9.0\CourseManagement.Data.dll
+D:\task\CourseManagement.Business\bin\Debug\net9.0\CourseManagement.Data.pdb
+D:\task\CourseManagement.Business\obj\Debug\net9.0\CourseMa.581D0B39.Up2Date
+D:\task\CourseManagement.Business\obj\Debug\net9.0\CourseManagement.Business.dll
+D:\task\CourseManagement.Business\obj\Debug\net9.0\refint\CourseManagement.Business.dll
+D:\task\CourseManagement.Business\obj\Debug\net9.0\CourseManagement.Business.pdb
+D:\task\CourseManagement.Business\obj\Debug\net9.0\ref\CourseManagement.Business.dll

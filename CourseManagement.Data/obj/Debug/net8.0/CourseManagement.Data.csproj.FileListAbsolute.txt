@@ -1,0 +1,28 @@
+D:\task\CourseManagement.Data\bin\Debug\net8.0\CourseManagement.Data.deps.json
+D:\task\CourseManagement.Data\bin\Debug\net8.0\CourseManagement.Data.runtimeconfig.json
+D:\task\CourseManagement.Data\bin\Debug\net8.0\CourseManagement.Data.dll
+D:\task\CourseManagement.Data\bin\Debug\net8.0\CourseManagement.Data.pdb
+D:\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.csproj.AssemblyReference.cache
+D:\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.AssemblyInfoInputs.cache
+D:\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.AssemblyInfo.cs
+D:\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.csproj.CoreCompileInputs.cache
+D:\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.dll
+D:\task\CourseManagement.Data\obj\Debug\net8.0\refint\CourseManagement.Data.dll
+D:\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.pdb
+D:\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.genruntimeconfig.cache
+D:\task\CourseManagement.Data\obj\Debug\net8.0\ref\CourseManagement.Data.dll
+D:\New folder\task\task\CourseManagement.Data\bin\Debug\net8.0\CourseManagement.Data.deps.json
+D:\New folder\task\task\CourseManagement.Data\bin\Debug\net8.0\CourseManagement.Data.runtimeconfig.json
+D:\New folder\task\task\CourseManagement.Data\bin\Debug\net8.0\CourseManagement.Data.dll
+D:\New folder\task\task\CourseManagement.Data\bin\Debug\net8.0\CourseManagement.Data.pdb
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.csproj.AssemblyReference.cache
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.AssemblyInfoInputs.cache
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.AssemblyInfo.cs
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.csproj.CoreCompileInputs.cache
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.dll
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\refint\CourseManagement.Data.dll
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.pdb
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\CourseManagement.Data.genruntimeconfig.cache
+D:\New folder\task\task\CourseManagement.Data\obj\Debug\net8.0\ref\CourseManagement.Data.dll
